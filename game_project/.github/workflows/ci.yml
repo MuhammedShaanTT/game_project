@@ -1,4 +1,4 @@
-name: Java Game CI
+ame: Java Game CI
 
 on:
   push:
