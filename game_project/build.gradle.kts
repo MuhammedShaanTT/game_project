@@ -4,6 +4,9 @@ plugins {
 
 repositories {
     mavenCentral()
+    maven{
+        url = uri("https://repo.jmonkeyengine.org/maven2")
+    }
 }
 
 dependencies {
